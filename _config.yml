@@ -7,7 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/jacoblundeen">View My GitHub Profile</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/jacob-lundeen-b49b8390/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://rpubs.com/jacoblundeen">View My RPubs Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
