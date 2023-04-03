@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NFL Expected Points Analysis](/sample_page)
+Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
+I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
+statistics most highly correlate to Expected Points Added and look at any predictive value of the models.
+<br><br>
+<a href="https://github.com/jacoblundeen/NFL_Expected_Points_Analysis">View Code on GitHub</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
