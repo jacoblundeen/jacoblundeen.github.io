@@ -5,6 +5,7 @@
 ### Data Science
 
 [NFL Expected Points Analysis](/sample_page)
+<br><br>
 Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
 I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
 statistics most highly correlate to Expected Points Added and look at any predictive value of the models.
