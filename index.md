@@ -34,6 +34,13 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 ---
 
+### Algorithms
+<br><br>
+The following are Python projects of Machine Learning algorithms written from scratch (no ML packages used).
+<br><br>
+ - [ML Pipeline](https://github.com/jacoblundeen/ML_Pipeline)
+ - [K-Nearest Neighbors](https://github.com/jacoblundeen/K_Nearest_Neighbors)
+
 ### Various
 
 - [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
