@@ -26,6 +26,8 @@ In the National Football League, the Quarterback is the single most important po
 <br><br>
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. In this project, I will use data from accelerometers on the belt, forearm, arm, and dumbbell of six participants that were asked to perform barbell lifts correctly and incorrectly in 5 different ways. Using this data, I attempt to correctly predict which exercise the participants were doing and if they did them correctly or not.
 <br><br>
+<img src="images/EPA.png?raw=true"/>
+<img src="images/CPOE.png?raw=true"/>
   <a href="https://github.com/jacoblundeen/Coursera_Machine_Learning_Project">View Code on GitHub</a>
 
 ---
