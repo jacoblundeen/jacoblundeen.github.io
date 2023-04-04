@@ -14,6 +14,12 @@ statistics most highly correlate to Expected Points Added and look at any predic
 
 ---
 
+[Exercise Prediction](https://htmlpreview.github.io/?https://github.com/jacoblundeen/Coursera_Machine_Learning_Project/blob/master/Machine_Learning.html)
+<br><brb>
+Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self-movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, we will use data from accelerometers on the belt, forearm, arm, and dumbbell of six participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.
+
+---
+
 ### Various
 
 - [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
