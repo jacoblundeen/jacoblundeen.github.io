@@ -22,9 +22,9 @@ statistics most highly correlate to Expected Points Added and look at any predic
 
 ---
 
-### Category Name 2
+### Various
 
-- [Project 1 Title](http://example.com/)
+- [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
