@@ -13,22 +13,11 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <a href="https://github.com/jacoblundeen/NFL_Expected_Points_Analysis">View Code on GitHub</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Various
 
 - [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Reproducible Research](https://rpubs.com/jacoblundeen/297611)
 
 ---
 
