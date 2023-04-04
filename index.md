@@ -14,7 +14,7 @@ statistics most highly correlate to Expected Points Added and look at any predic
 
 ---
 
-[EPA as a Predictor](/pdfs/Lundeen_Final_Paper.pdf)
+[EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
 <br><br>
 In the National Football League, the Quarterback is the single most important position. Not just in its own sport, but no other modern team sport is as heavily dependent on a single position like American Football is on the Quarterback. In this project, I continue my analysis of Expected Points by comparing it to other modern metrics and utilize multivariate regression to determine their predictive power. As well, I created an RShiny app to show the correlations between the metrics.
 <br><br>
