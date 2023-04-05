@@ -52,6 +52,18 @@ This project was done using a combination of RStudio for the exploratory data an
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 
+[nflfastR Exploratory Visualizations](/pdf/Lundeen_Project_02.pdf)
+<br><br>
+This project was done to show how to explore and analyze data through visual means without using a dedicated visualization tool. The data is from the nflfastR package and uses visualizations to answer multiple questions.
+<br><br>
+<img src="/pdf/EPA_vs_CPOE.pdf">
+<img src="/pdf/Head_Penalties.pdf">
+<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
+<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
+<img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
+<a href="https://github.com/jacoblundeen/nflfastR_Visualization">View Code on GitHub</a>
+
 ### Algorithms
 
 The following are Python projects of Machine Learning algorithms written from scratch (no ML packages used).
