@@ -7,7 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/jacob-lundeen-b49b8390/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
   <br><br>
-  <a href="https://rpubs.com/jacoblundeen">View My RPubs Profile</a>
+  <a href="https://rpubs.com/jacoblundeen"> <img src="https://img.shields.io/badge/RPubs-blue?logo=RPubs"> </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub">
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
