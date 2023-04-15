@@ -87,6 +87,7 @@ The following are Python projects of Machine Learning algorithms written from sc
 A selection of smaller projects utilizing various DS and ML skills and packages.
 
 - [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
+- [Data Visualization using Plotly](https://rpubs.com/jacoblundeen/1029104)
 - [Reproducible Research](https://rpubs.com/jacoblundeen/297611)
 
 ---
