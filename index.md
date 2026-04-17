@@ -4,10 +4,25 @@
 
 ### Data Science Projects
 
+[Predictive Analytics for Smart Device Trends](https://htmlpreview.github.io/?https://github.com/jacoblundeen/bellabeat_case_study/blob/main/bellabeat_case_study.ipynb)
+<br><br>
+This Bellabeat case study leverages high-performance Polars and Scikit-Learn to transform raw FitBit tracker data into 
+actionable marketing insights for women's wellness products. By applying K-Means clustering and correlation analysis, 
+the project identifies distinct user personas and "engagement gaps," providing data-driven recommendations to improve 
+global marketing strategies and consumer engagement.
+<br><br>
+<img src="https://img.shields.io/badge/Jupyter Notebook-blue">
+<img src="https://img.shields.io/badge/Polars-white?logo=Python">
+<img src="https://img.shields.io/badge/Sklearn-white?logo=Python">
+<img src="https://img.shields.io/badge/KMeans-white?logo=Python"><br>
+<a href="https://github.com/jacoblundeen/bellabeat_case_study">View Code on GitHub</a>
+
+---
+
 [NFL Expected Points Analysis](https://htmlpreview.github.io/?https://github.com/jacoblundeen/NFL_Expected_Points_Analysis/blob/main/Course_Project_HTML.html)
 <br><br>
 Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
-I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
+I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the data to determine what 
 statistics most highly correlate to Expected Points Added and look at any predictive value of the models.
 <br><br>
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
