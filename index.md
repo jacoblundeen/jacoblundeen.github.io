@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Predictive Analytics for Smart Device Trends](https://htmlpreview.github.io/?https://github.com/jacoblundeen/bellabeat_case_study/blob/main/bellabeat_case_study.ipynb)
+[Predictive Analytics for Smart Device Trends](https://htmlpreview.github.io/?https://github.com/jacoblundeen/bellabeat_case_study/blob/main/bellabeat_case_study.html)
 <br><br>
 This Bellabeat case study leverages high-performance Polars and Scikit-Learn to transform raw FitBit tracker data into 
 actionable marketing insights for women's wellness products. By applying K-Means clustering and correlation analysis, 
