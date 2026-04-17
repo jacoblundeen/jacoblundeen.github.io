@@ -83,7 +83,7 @@ This project was done to show how to explore and analyze data through visual mea
 
 ---
 
-### Algorithms
+### Academic Projects
 
 The following are Python projects of Machine Learning algorithms written from scratch (no ML packages used).
 
@@ -97,13 +97,10 @@ The following are Python projects of Machine Learning algorithms written from sc
 
 ---
 
-### Skilled-based Projects
+### Certifications
 
-A selection of smaller projects utilizing various DS and ML skills and packages.
-
-- [Data Visualization using Leaflet](https://rpubs.com/jacoblundeen/nflstadiums)
-- [Data Visualization using Plotly](https://rpubs.com/jacoblundeen/1029104)
-- [Reproducible Research](https://rpubs.com/jacoblundeen/297611)
+ - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/64b78173-483d-4d12-a765-a327469cddc7/linked_in_profile)
+ - [Palantir Use Case Engineer-Associate](https://certifications.ontologize.com/credentials/b1859a83-0019-4be1-be9d-9775a0328d35)
 
 ---
 
