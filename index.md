@@ -83,6 +83,18 @@ This project was done to show how to explore and analyze data through visual mea
 
 ---
 
+### Interactive Apps
+
+[KNN Streamlit Demo](https://github.com/jacoblundeen/knn_streamlit_demo)
+<br><br>
+This is a deployed, interactive Streamlit app that uses a KNN algorithm (built from scratch) and makes it usable and explorable by someone wiht zero ML background (adjustable neighbor count, live standardization toggle, spider chart of neighbors, walkthrough of the math).
+<br><br>
+<img src="https://img.shields.io/badge/Streamlit-white?logo=Python">
+<img src="https://img.shields.io/badge/KNN-white?logo=Python"><br>
+<a href="https://knnappdemo-4gakmnynxznatxbjzbqzje.streamlit.app/">Try it Live!</a>
+
+---
+
 ### Academic Projects
 
 The following are Python projects of Machine Learning algorithms written from scratch (no ML packages used).
