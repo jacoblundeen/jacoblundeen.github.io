@@ -51,7 +51,7 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 <br><br>
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R"><br>
-<a href="https://github.com/jacoblundeen/Coursera_Machine_Learning_Project">View Code on GitHub</a>
+<a href="https://github.com/jacoblundeen/exercise_form_classifier">View Code on GitHub</a>
 
 ---
 
@@ -66,7 +66,7 @@ This project was done using a combination of RStudio for the exploratory data an
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R"><br>
-<a href="https://github.com/jacoblundeen/Tableau_Dashboard/tree/main">View Code on GitHub</a><br>
+<a href="https://github.com/jacoblundeen/pff_coverage_statistics_dashboard">View Code on GitHub</a><br>
 <a href="https://public.tableau.com/app/profile/jacob.lundeen/viz/2021NFLDraftProspectsCoverage-PFF/Dashboard1?publish=yes">Try it Live!</a>
 
 ---
