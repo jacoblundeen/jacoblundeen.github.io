@@ -65,7 +65,9 @@ This project was done using a combination of RStudio for the exploratory data an
 <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau">
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
-<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R"><br>
+<a href="https://github.com/jacoblundeen/Tableau_Dashboard/tree/main">View Code on GitHub</a><br>
+<a href="https://public.tableau.com/app/profile/jacob.lundeen/viz/2021NFLDraftProspectsCoverage-PFF/Dashboard1?publish=yes">Try it Live!</a>
 
 ---
 
