@@ -33,18 +33,6 @@ statistics most highly correlate to Expected Points Added and look at any predic
 
 ---
 
-[EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
-<br><br>
-In the National Football League, the Quarterback is the single most important position. Not just in its own sport, but no other modern team sport is as heavily dependent on a single position like American Football is on the Quarterback. In this project, I continue my analysis of Expected Points by comparing it to other modern metrics and utilize multivariate regression to determine their predictive power. As well, I created an RShiny app to show the correlations between the metrics.
-<br><br>
-<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
-<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
-<img src="https://img.shields.io/badge/RShiny-blue?logo=R">
-<img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
-<a href="https://github.com/jacoblundeen/EPA_Predictor">View Code on GitHub</a>
-
----
-
 [Exercise Prediction](https://htmlpreview.github.io/?https://github.com/jacoblundeen/Coursera_Machine_Learning_Project/blob/master/Machine_Learning.html)
 <br><br>
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. In this project, I will use data from accelerometers on the belt, forearm, arm, and dumbbell of six participants that were asked to perform barbell lifts correctly and incorrectly in 5 different ways. Using this data, I attempt to correctly predict which exercise the participants were doing and if they did them correctly or not.
@@ -55,11 +43,35 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 ---
 
-### Data Visualization Projects
+### Interactive Apps
 
-[PFF 2021 College Coverage Statistics](/pdf/Lundeen_Project_03.pdf)
+[KNN Streamlit Demo](https://github.com/jacoblundeen/knn_streamlit_demo)
 <br><br>
-This project was done using a combination of RStudio for the exploratory data analysis and Tableau to visualize the data. I chose to look at 2021 college football statistics for coverage players provided by Pro Football Focus.
+A from-scratch K-Nearest Neighbors regressor predicting concrete compressive strength,
+deployed on Streamlit Community Cloud.
+<br><br>
+<img src="https://img.shields.io/badge/Streamlit-white?logo=Python">
+<img src="https://img.shields.io/badge/KNN-white?logo=Python"><br>
+<a href="https://knnappdemo-4gakmnynxznatxbjzbqzje.streamlit.app/">Try it Live!</a>
+
+---
+
+[NFL QB Efficiency Explorer](/pdf/Lundeen_Final_Paper.pdf)
+<br><br>
+An R Shiny app exploring how EPA and CPOE predict quarterback wins.
+<br><br>
+<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
+<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
+<img src="https://img.shields.io/badge/RShiny-blue?logo=R">
+<img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
+<a href="https://github.com/jacoblundeen/EPA_Predictor">View Code on GitHub</a><br>
+<a href="https://connect.posit.cloud/jacoblundeen/content/01a05eb4-d442-c3a3-80fe-ee3ce10a4529">Try it Live!</a>
+
+---
+
+[PFF College Statistics Dashboard](/pdf/Lundeen_Project_03.pdf)
+<br><br>
+An interactive Tableau dashboard exploring 2021 NFL Draft prospect coverage stats.
 <br><br>
 <img src="/images/Dashboard.png">
 <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau">
@@ -70,6 +82,8 @@ This project was done using a combination of RStudio for the exploratory data an
 <a href="https://public.tableau.com/app/profile/jacob.lundeen/viz/2021NFLDraftProspectsCoverage-PFF/Dashboard1?publish=yes">Try it Live!</a>
 
 ---
+
+### Data Visualization Projects
 
 [NFL Exploratory Visualizations](/pdf/Lundeen_Project_02.pdf)
 <br><br>
@@ -82,18 +96,6 @@ This project was done to show how to explore and analyze data through visual mea
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 <img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
 <a href="https://github.com/jacoblundeen/nflfastR_Visualization">View Code on GitHub</a>
-
----
-
-### Interactive Apps
-
-[KNN Streamlit Demo](https://github.com/jacoblundeen/knn_streamlit_demo)
-<br><br>
-This is a deployed, interactive Streamlit app that uses a KNN algorithm (built from scratch) and makes it usable and explorable by someone wiht zero ML background (adjustable neighbor count, live standardization toggle, spider chart of neighbors, walkthrough of the math).
-<br><br>
-<img src="https://img.shields.io/badge/Streamlit-white?logo=Python">
-<img src="https://img.shields.io/badge/KNN-white?logo=Python"><br>
-<a href="https://knnappdemo-4gakmnynxznatxbjzbqzje.streamlit.app/">Try it Live!</a>
 
 ---
 
@@ -128,7 +130,7 @@ visualizations to test whether the game's factions are balanced.
 
 <img src="https://img.shields.io/badge/Python-white?logo=Python">
 <img src="https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=">
-<img src="https://img.shields.io/badge/statsmodels-blue?logo=Python"><br>
+<img src="https://img.shields.io/badge/statsmodels-white?logo=Python"><br>
 <a href="https://github.com/jacoblundeen/tow_analysis">View on GitHub</a>
 
 ---
