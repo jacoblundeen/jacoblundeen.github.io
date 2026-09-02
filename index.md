@@ -73,7 +73,6 @@ An R Shiny app exploring how EPA and CPOE predict quarterback wins.
 <br><br>
 An interactive Tableau dashboard exploring 2021 NFL Draft prospect coverage stats.
 <br><br>
-<img src="/images/Dashboard.png">
 <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau">
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
