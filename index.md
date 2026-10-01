@@ -45,6 +45,20 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 ### Interactive Apps
 
+[PFF QB Grade Shrinkage Model](https://github.com/jacoblundeen/nfl_pff_bayesian)
+<br><br>
+A hierarchical Bayesian model that shrinks weekly PFF quarterback grades toward league-wide patterns based on snap count, 
+correcting for the fact that low-snap grades are statistically unreliable but get treated at face value. Built in PyMC 
+and validated with a train/holdout backtest showing 15–35% lower prediction error than raw averages across three NFL seasons.
+<br><br>
+<img src="https://img.shields.io/badge/Python-white?logo=Python">
+<img src="https://img.shields.io/badge/PyMC-white?logo=Python">
+<img src="https://img.shields.io/badge/Streamlit-white?logo=Python">
+<img src="https://img.shields.io/badge/Bayesian Inference-white?logo=Python"><br>
+<a href="https://nflpffbayesian-chb5ypb5tv4kxltbonkyra.streamlit.app/">Try it Live!</a>
+
+---
+
 [KNN Streamlit Demo](https://github.com/jacoblundeen/knn_streamlit_demo)
 <br><br>
 A from-scratch K-Nearest Neighbors regressor predicting concrete compressive strength,
