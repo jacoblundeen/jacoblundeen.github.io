@@ -148,10 +148,11 @@ visualizations to test whether the game's factions are balanced.
 
 ---
 
-### Certifications
+### Certifications & Training
 
  - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/64b78173-483d-4d12-a765-a327469cddc7/linked_in_profile)
  - [Palantir Use Case Engineer-Associate](https://certifications.ontologize.com/credentials/b1859a83-0019-4be1-be9d-9775a0328d35)
+ - Machine Learning with Databricks (Databricks training course, October 2026)
 
 ---
 
